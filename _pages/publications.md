@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-# {% include base_path %}
-
-# {% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-# {% endfor %}
-
 ### The Spillover Effect of Waiver Disclosures on Corporate Risk-Taking
 
 Job Market Paper
@@ -22,3 +16,10 @@ Dissertation Committee: Professors Amy Hutton (co-chair), Alvis Lo (co-chair), a
 Presented at Boston College
 
 Download Paper
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+{% include archive-single.html %}
+{% endfor %}
+
