@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### The Spillover Effect of Waiver Disclosures on Corporate Risk-Taking
-Job Market Paper
+_Job Market Paper_
 
 I examine the impact of covenant waiver disclosures by peer firms on the risk-taking behaviors of focal firms who share lenders. I posit that waiver disclosures by peer firms diminish the perceived uncertainty and expected costs associated with covenant violations, thereby diminishing the precautionary stance of management and encouraging increased risk-taking. Employing a natural language processing machine learning model to identify covenant violations and waiver disclosures in SEC filings, I conduct a determinant analysis which reveals that borrower characteristics (ROA, leverage, and PP&E) and loan features (lender’s share) correlate with the likelihood of receiving a waiver, albeit with limited explanatory power overall. For my identification strategy, I employ different-in-differences and an instrumental variable to isolate variations in waiver disclosures that are exogenous to and independent of focal firms’ risk-taking. I predict and find that, following the peer waiver disclosures, focal firms amplify their risk-taking, as indicated by higher stock return volatility. Examining the underlying mechanisms, focal firms increase risk-taking by increasing leverage and product-development efforts. Cross-sectional analysis reveals that the effects are more pronounced in cases where a waiver is unconditional and focal firms lack relationship lending. Overall, these findings illuminate a spillover effect where waiver disclosures by peer firms significantly influence managers' capital structure and investment decisions.
 
@@ -23,9 +23,13 @@ Presented at: Boston College, Chicago Booth, Music City Accounting Research Conf
 
 Featured in: [Institutional Money](https://www.institutional-money.com/consent/?url=/fileadmin/emagazin/2023_3_IM/128/index.html)
 
-{% include base_path %}
+### Hedging Climate Change Risk: A Real-time Market Response Approach (with Miao Liu and Rachel Xi Zhang)
 
-{% for post in site.publications reversed %}
-{% include archive-single.html %}
-{% endfor %}
+We present a novel methodology for constructing portfolios designed to hedge economic and financial risks arising from climate change. We utilize ChatGPT-4 to pinpoint climate-related discussions during earnings conference calls and connect these time-stamped transcripts with high-frequency stock price data at the conversation level. This approach allows us to assess a company's dynamic exposure to climate change risks by analyzing real-time stock price responses to discussions about climate issues. Our proposed portfolio, constructed by taking long (short) positions in stocks with positive (negative) market responses to climate conversations, appreciates in value during periods with negative aggregate climate news shocks. Compared to portfolios constructed using existing alternative methods, our real-time market response-based portfolios demonstrate superior out-of-sample hedge performance. A key advantage of our approach is its ability to capture time-series and cross-sectional variations in stocks’ rapidly-evolving exposures to climate risk, relying on the timing of when climate-related issues become salient topics that warrant conference call discussions and real-time market responses to such conversations. Additionally, we showcase the versatility of our approach in hedging other types of dynamic risks: namely political risk and pandemic risk.
+
+_2nd Research Prize Award of IQAM_
+
+Presented at: Boston Empirical Accounting Conference, Bristol Financial Markets Conference, 2024 China International Conference in Finance (CICF), 2024 European Financial Management Association (EFMA) Annual Conference, Northeastern Finance Conference.
+
+
 
