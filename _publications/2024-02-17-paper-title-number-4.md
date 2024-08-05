@@ -1,4 +1,4 @@
-### The Spillover Effect of Waiver Disclosures on Corporate Risk-Taking"
+### The Spillover Effect of Waiver Disclosures on Corporate Risk-Taking
 
 Job Market Paper
 
