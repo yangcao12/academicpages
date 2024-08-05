@@ -21,7 +21,7 @@ Over the past two decades, the US stock market has undergone significant changes
 
 Presented at: Boston College, Chicago Booth, Music City Accounting Research Conference, MIT Asia Conference, 2023 FARS Conference, and 2023 Spark Conference.
 
-Featured in: Institutional Money{https://www.institutional-money.com/consent/?url=/fileadmin/emagazin/2023_3_IM/128/index.html}
+Featured in: [Institutional Money](https://www.institutional-money.com/consent/?url=/fileadmin/emagazin/2023_3_IM/128/index.html)
 
 {% include base_path %}
 
