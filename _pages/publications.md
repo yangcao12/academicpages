@@ -31,5 +31,23 @@ _2nd Research Prize Award of IQAM_
 
 Presented at: Boston Empirical Accounting Conference, Bristol Financial Markets Conference, 2024 China International Conference in Finance (CICF), 2024 European Financial Management Association (EFMA) Annual Conference, Northeastern Finance Conference.
 
+#### Corporate ESG Misconduct and Household Participation in the Stock Market (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
+
+Corporate ESG misconduct, such as pollution and workplace violations, generates public outcry and raises concerns that corporations profit at the expense of society and the environment. We contend that ESG misconduct hurts households’ perception of corporations at large and their willingness to participate in the stock market. We find that households in states with a higher frequency of local ESG misconduct cases are less likely to invest in the stock market. The results are mainly present in subsamples where the misconduct can attract more public criticism (e.g., when the misconduct firms are financially strong) or when the households are prosocial. The local environment (e.g., counter-examples set by local non-misconduct firms with good ESG performance) also influences the effect of ESG misconduct on households. Our findings highlight that ESG failures by individual firms aggravate households' reluctance to participate in the stock market, suggesting an unexplored externality of negative ESG performance.
+
+### The Credibility of Non-Disclosure: Evidence from Real-time Market Response to NonAnswers in Conference Calls (with Jared Flake and Miao Liu)
+
+Managers sometimes give non-disclosure to investors despite their best intentions, either due to a lack of information or substantial proprietary costs. However, it is difficult for investors to distinguish these managers from those hiding negative news. This paper investigates whether managers can establish a transparent disclosure reputation to credibly communicate the absence of information, using non-answers during earnings calls as a setting. By matching granular, time-stamped earnings call conversations with high-frequency trading data, we create a novel dataset that examines immediate real-time market reactions to non-answers given by managers. Additionally, we leverage large language models (LLMs) to build a database of strategies that managers adopt to establish a transparent disclosure reputation, including providing detailed elaboration when issuing negative earnings guidance and proactively interacting with bearish analysts. We find that these disclosure strategies bolster managers’ credibility when communicating the absence of information. Our study highlights the importance of disclosure strategies that managers can adopt to ensure credible communication within the dynamic context of real-time scenarios.
+
+Presented at: 2024 FARS Conference, 2024 AAA Annual Meeting
+
+### Does More Information Production Lead to Less Post-Earnings-Announcement Drift? (with Miao Liu, Jinzhi Lu, and Haresh Sapra)
+
+Not always. We document an inverse U-shaped relation between post-earnings announcement drift (PEAD) and information environments: Firms with moderate information environments, such as small to medium-sized firms with 2-4 analyst following, have higher PEAD than firms with either richer or poorer information environments. To understand the non-monotonic relation between PEAD and information production, we build a 2-period model and characterize PEAD that closely maps into its empirical counterpart. We show that when investors have limited information processing capacity, PEAD increases with capacity when capacity is low and decreases with capacity when it is high. Our model highlights the distinction and subtle connection between how much and how fast information is incorporated into prices. When investors allocate less attention to earnings news due to binding processing capacity, competing information sources, or low liquidity, stock prices contain less earnings information in equilibrium, but prices converge to equilibrium faster precisely because less information is processed. We formally test our model using two quasi-natural experiments and find evidence consistent with our model predictions: PEAD increases for small firms after adopting EDGAR and decreases for small firms after losing analysts, a result reversed or non-existent for larger firms.
+
+Presented at: Boston College, Thirteenth Accounting Research Workshop (Zurich), AES Asia-Pacific Webinar
+
+
+
 
 
