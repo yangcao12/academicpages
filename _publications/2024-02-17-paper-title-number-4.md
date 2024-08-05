@@ -1,12 +1,10 @@
 ---
 title: "The Spillover Effect of Waiver Disclosures on Corporate Risk-Taking"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: "I examine the impact of covenant waiver disclosures by peer firms on the risk-taking behaviors of focal firms who share lenders. I posit that waiver disclosures by peer firms diminish the perceived uncertainty and expected costs associated with covenant violations, thereby diminishing the precautionary stance of management and encouraging increased risk-taking. Employing a natural language processing machine learning model to identify covenant violations and waiver disclosures in SEC filings, I conduct a determinant analysis which reveals that borrower characteristics (ROA, leverage, and PP&E) and loan features (lender’s share) correlate with the likelihood of receiving a waiver, albeit with limited explanatory power overall. For my identification strategy, I employ different-in-differences and an instrumental variable to isolate variations in waiver disclosures that are exogenous to and independent of focal firms’ risk-taking. I predict and find that, following the peer waiver disclosures, focal firms amplify their risk-taking, as indicated by higher stock return volatility. Examining the underlying mechanisms, focal firms increase risk-taking by increasing leverage and product-development efforts. Cross-sectional analysis reveals that the effects are more pronounced in cases where a waiver is unconditional and focal firms lack relationship lending. Overall, these findings illuminate a spillover effect where waiver disclosures by peer firms significantly influence managers' capital structure and investment decisions."
 date: 2024-02-17
 venue: 'GitHub Journal of Bugs'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
