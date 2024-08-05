@@ -17,9 +17,11 @@ Download Paper
 ### Is Information Production for the U.S. Stock Market Becoming More Concentrated? (with Miao Liu and Rachel Xi Zhang)
 Over the past two decades, the US stock market has undergone significant changes in its structure, with small firms disappearing and large firms gaining market share. This study investigates whether the dominance of large firms in the market creates positive spillover for or shifts resources away from small firms' information production. Using a shift-share IV approach complemented with a difference-indifferences design, our identification strategy isolates two independent variations in large firms’ market share that are plausibly exogenous to small firms’ fundamentals. We find that as large firms gain market share, information production resources, including the attention of financial analysts and institutional investors, are shifted away from small firms, even if the size and business fundamentals of small firms remain unchanged. The loss of information production reduces stock price informativeness. The evidence points to an increasing market concentration that not only favors large firms but also leads to a skewed distribution of information production resources, thereby worsening the information environment for small firms.
 
+Featured in: [Institutional Money](https://www.institutional-money.com/consent/?url=/fileadmin/emagazin/2023_3_IM/128/index.html)
+
 Presented at: Boston College, Chicago Booth, Music City Accounting Research Conference, MIT Asia Conference, 2023 FARS Conference, and 2023 Spark Conference.
 
-Featured in: [Institutional Money](https://www.institutional-money.com/consent/?url=/fileadmin/emagazin/2023_3_IM/128/index.html)
+
 
 ### Hedging Climate Change Risk: A Real-time Market Response Approach (with Miao Liu and Rachel Xi Zhang)
 
@@ -29,7 +31,7 @@ _2nd Research Prize Award of IQAM_
 
 Presented at: Boston Empirical Accounting Conference, Bristol Financial Markets Conference, 2024 China International Conference in Finance (CICF), 2024 European Financial Management Association (EFMA) Annual Conference, Northeastern Finance Conference.
 
-#### Corporate ESG Misconduct and Household Participation in the Stock Market (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
+### Corporate ESG Misconduct and Household Participation in the Stock Market (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
 
 Corporate ESG misconduct, such as pollution and workplace violations, generates public outcry and raises concerns that corporations profit at the expense of society and the environment. We contend that ESG misconduct hurts households’ perception of corporations at large and their willingness to participate in the stock market. We find that households in states with a higher frequency of local ESG misconduct cases are less likely to invest in the stock market. The results are mainly present in subsamples where the misconduct can attract more public criticism (e.g., when the misconduct firms are financially strong) or when the households are prosocial. The local environment (e.g., counter-examples set by local non-misconduct firms with good ESG performance) also influences the effect of ESG misconduct on households. Our findings highlight that ESG failures by individual firms aggravate households' reluctance to participate in the stock market, suggesting an unexplored externality of negative ESG performance.
 
@@ -45,7 +47,9 @@ Not always. We document an inverse U-shaped relation between post-earnings annou
 
 Presented at: Boston College, Thirteenth Accounting Research Workshop (Zurich), AES Asia-Pacific Webinar
 
+### Question Herding in Earnings Calls
 
+This paper investigates whether analysts follow each other by asking similar questions during earnings conference calls (question herding) and how question herding affects firms’ information environment. I employ a topic modeling methodology to compare the thematic content of a large sample of analyst questions in earnings calls. The empirical results reveal strong evidence of question herding. The correlation between the fraction of a topic discussed in the first half of the Q&A portion and the fraction in the second half averages 30%. Using an instrumental variables approach that captures the randomness in All-Star analysts’ participation, I differentiate between herding that is driven by imitation vs herding driven by common information. Next, I examine the impact of question herding on firms’ information environment. Specifically, I find that question herding is associated with greater post-earnings announcement drift. Additionally, I find that question herding is associated with less accurate analysts’ forecasts and a smaller price reaction to their recommendation change. Together these findings suggest that earnings conference calls with greater level of question herding produce less information.
 
-
+Presented at: Boston College
 
