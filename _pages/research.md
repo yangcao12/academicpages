@@ -21,7 +21,7 @@ _Revising for 2nd round review at the Journal of Accounting Research_
 
 ### A Rotten Apple Spoils the Barrel? The Spillover Effect of Corporate ESG Misconduct on Family Stock Ownership (with Ki-Soon Choi, Lian Fen Lee, and Alvis Lo)
 
-Under review at the Review of Accounting Studies
+_Under review at the Review of Accounting Studies_
 
 <div style="text-align: justify">Corporate ESG misconduct, such as pollution and workplace violations, generates public outcry and raises concerns that corporations profit at the expense of society and the environment. We contend that ESG misconduct hurts families’ perception of corporations at large and their willingness to own stocks. We find that families in states with a higher frequency of local ESG misconduct cases are less likely to invest in the stock market. The results are mainly present in subsamples where the misconduct can attract more public criticism (e.g., when the misconduct firms are financially strong) or when the families are prosocial. The local environment (e.g., counter-examples set by local non-misconduct firms with good ESG performance) also influences the effect of ESG misconduct. Our findings highlight that ESG failures by individual firms aggravate families’ reluctance to own stocks, suggesting an unexplored spillover effect of negative ESG performance.</div>
 
@@ -62,12 +62,7 @@ Presented at: Boston College, Thirteenth Accounting Research Workshop (Zurich), 
 
 Presented at: Boston College
 
----
-layout: archive
-title: "Work in Process"
-permalink: /research/
-author_profile: true
----
+# Work in Process
 
 ### Attention Spike and Mispricing Correction: A Machine Learning Approach (with Hangu Chen and Miao Liu)
 
