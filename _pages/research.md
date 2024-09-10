@@ -62,11 +62,12 @@ Presented at: Boston College, Thirteenth Accounting Research Workshop (Zurich), 
 
 Presented at: Boston College
 
+---
 # Work in Process
 
 ### Attention Spike and Mispricing Correction: A Machine Learning Approach (with Hangu Chen and Miao Liu)
 
-<div style="text-align: justify">Manuscript writing in progress.</div>
+<div style="text-align: justify">•	Manuscript writing in progress.</div>
 
 ### Private Information Production Before Earnings Announcement (with Miao Liu and Jinzhi Lu)
 
