@@ -15,7 +15,7 @@ Presented at Boston College
 
 ### Human Information Production in the Machine Age: Evidence from Automated Information Acquisition in the Asset Management Industry? (with Kai Du, Miao Liu and Shuyang Wang)
 
-Revising for 2nd round review at the Journal of Accounting Research.
+_Revising for 2nd round review at the Journal of Accounting Research_
 
 <div style="text-align: justify">We examine the impact of automation on the role of humans in the asset management industry's three-stage information processing activities: awareness, acquisition, and integration. Our findings reveal that automating the download of SEC filings allows the human workforce to expand their research across a broader set of firms, thereby enhancing information awareness. Additionally, humans increasingly focus on acquiring soft information from conference calls and context-based data, such as historical filings, indicating improved information acquisition. We also observe that these enhancements in human information awareness and acquisition are effectively integrated into real activities, such as trading and portfolio allocation. Moreover, post-automation, humans shift their information processing efforts towards portfolio firms where they likely hold a comparative advantage over machines, including firms with more intangible assets, firms with multiple industry segments, and firms with which they have established long-term investment relationships. Our results suggest that the unique value of the human workforce is amplified when automation relieves them from repetitive and mechanical tasks.</div>
 
@@ -62,3 +62,17 @@ Presented at: Boston College, Thirteenth Accounting Research Workshop (Zurich), 
 
 Presented at: Boston College
 
+---
+layout: archive
+title: "Work in Process"
+permalink: /research/
+author_profile: true
+---
+
+### Attention Spike and Mispricing Correction: A Machine Learning Approach (with Hangu Chen and Miao Liu)
+
+<div style="text-align: justify">Manuscript writing in progress.</div>
+
+### Private Information Production Before Earnings Announcement (with Miao Liu and Jinzhi Lu)
+
+<div style="text-align: justify">•	Modeling and preliminary results; additional analyses in progress.</div>
