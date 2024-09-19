@@ -122,7 +122,7 @@ social:
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : G-L7R71HJZBK
 
 
 # Reading Files
