@@ -67,7 +67,7 @@ Presented at: Boston College
 ---
 ## Work in Process
 
-### Attention Spike and Mispricing Correction: A Machine Learning Approach (with Hangu Chen and Miao Liu)
+### Attention Spike and Mispricing Correction: A Machine Learning Approach (with Hangu Chen, Ed deHaan, and Miao Liu)
 
 <div style="text-align: justify">•	Manuscript writing in progress.</div>
 
