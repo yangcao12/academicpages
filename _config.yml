@@ -12,7 +12,7 @@ title                    : "Yang Cao"
 title_separator          : "-"
 name                     : &name "Yang Cao"
 description              : &description "personal description"
-url                      : "http://yangcao.me" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://yangcao.me # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yangcao12/yangcao.github.io"
 
