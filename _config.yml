@@ -21,7 +21,7 @@ repository               : "https://yangcao12.github.io/academicpages"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : 
   name             : "Yang Cao" 
   bio              : "PhD candidate in accounting @ Boston College"
   location         : "Boston, MA"
